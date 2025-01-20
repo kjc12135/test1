@@ -1,2 +1,13 @@
 Test파일입니다.
 두번째 수정입니다.
+
+
+git 기본적인 커맨드입니다. 보시면서 사용해주세요
+(스테이징 에어리어 추가, local git 추가, 원격리포지토리 전송)
+git add .
+git commit -m "first commit"
+git push
+
+(원격리포지토리 가져오기, 원격리포지토리의 변경점 가져오기)
+git clone
+git pull
